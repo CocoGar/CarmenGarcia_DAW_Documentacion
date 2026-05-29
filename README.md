@@ -7,3 +7,9 @@ En este proyecto se utiliza Git como sistema de control de versiones local y Git
 ## Objetivo
 
 Documentar el proceso de instalación, configuración y uso de Git y GitHub, incluyendo la sincronización mediante SSH.
+
+## Modificación local
+
+Este cambio ha sido realizado desde el repositorio local en Ubuntu para comprobar la sincronización con GitHub.
+
+
