@@ -12,4 +12,6 @@ Documentar el proceso de instalación, configuración y uso de Git y GitHub, inc
 
 Este cambio ha sido realizado desde el repositorio local en Ubuntu para comprobar la sincronización con GitHub.
 
+## Modificación desde GitHub
 
+Este cambio ha sido realizado directamente desde la interfaz web de GitHub para comprobar la sincronización con el repositorio local.
